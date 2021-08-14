@@ -6,8 +6,8 @@
 </head>
 <body>
 
-<h2>Images</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
+<h2>Photographed by</h2>
+<p>Rafi Kabir</p>
 
     <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-1.jpg">
     <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-2.jpg">
