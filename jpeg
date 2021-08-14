@@ -1,17 +1,33 @@
 <html>
+<head>
+<style>
+
+</style>
+</head>
 <body>
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-1.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-2.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-3.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-4.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-5.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-6.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-7.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-8.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-9.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-10.jpg
-https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-11.jpg" >
+
+<h2>Images</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-1.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-2.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-3.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-4.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-5.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-6.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-7.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-8.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-9.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-10.jpg">
+    <img src="https://www.in-the-raw.org/wp-content/uploads/2020/08/Rachel-Samstag-by-Isabel-Hayn-11.jpg">
 </body>
 </html>
+
+
+
+
+
+
+
+
+
